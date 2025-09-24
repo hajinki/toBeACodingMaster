@@ -1,0 +1,39 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# -------------------------
+# Java / Kotlin
+# -------------------------
+*.class
+*.jar
+*.war
+*.ear
+out/
+build/
+bin/
+.gradle/
+*.iml
+
+# -------------------------
+# IDEs
+# -------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -------------------------
+# OS-specific
+# -------------------------
+.DS_Store
+Thumbs.db
