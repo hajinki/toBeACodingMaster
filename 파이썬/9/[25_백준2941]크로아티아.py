@@ -1,4 +1,4 @@
-n = input(",")
+n = input("")
 chars = list(n)
 num=0
 
@@ -22,7 +22,7 @@ while i < len(chars):
         else: 
             if ctr3 in croatia:
                 num+=1
-                i+=2
+                i+=3
             else:
                 num+=2
                 i+=1    
